@@ -74,7 +74,7 @@ def move_files(rootfolder, extension=".avi"):
         dircount = 0 
         for dirname, dirnames, filenames in os.walk(rootfolder):
                 dircount = dircount + 1
-                print "\nScaning Directory " + str(dircount) + ": " + dirname
+                print "\nScanning Directory " + str(dircount) + ": " + dirname
         	for filename in filenames:
                         totalcount = totalcount + 1
         		if filename.lower().endswith(extension):
