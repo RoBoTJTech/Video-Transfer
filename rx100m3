@@ -1,1 +1,1 @@
-./video.py /Volumes/Untitled /Users/administrator/Documents/Required\ Videos 
+python ./video.py /Volumes/Untitled /Users/administrator/Documents/Required\ Videos 
