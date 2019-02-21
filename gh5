@@ -1,1 +1,1 @@
-./video.py /Volumes/LUMIX /Users/administrator/Documents/Required\ Videos 
+python ./video.py /Volumes/LUMIX /Users/administrator/Documents/Required\ Videos 
